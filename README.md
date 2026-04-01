@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Manu07-design/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Manu07-design/DSA/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manu07-design/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
