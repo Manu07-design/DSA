@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manu07-design/DSA/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Manu07-design/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manu07-design/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Manu07-design/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Manu07-design/DSA/tree/master/0055-jump-game) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manu07-design/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
