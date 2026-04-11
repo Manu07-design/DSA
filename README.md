@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manu07-design/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Manu07-design/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Manu07-design/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Manu07-design/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Manu07-design/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Manu07-design/DSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Manu07-design/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Manu07-design/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manu07-design/DSA/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manu07-design/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Manu07-design/DSA/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Manu07-design/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
