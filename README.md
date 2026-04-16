@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Manu07-design/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Manu07-design/DSA/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/Manu07-design/DSA/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Manu07-design/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Manu07-design/DSA/tree/master/0290-word-pattern) |
 ## Array
 |  |
 | ------- |
