@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Manu07-design/DSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Manu07-design/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manu07-design/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Manu07-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Manu07-design/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manu07-design/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Manu07-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Manu07-design/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manu07-design/DSA/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Manu07-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Manu07-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
