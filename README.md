@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Manu07-design/DSA/tree/master/0155-min-stack) |
 ## Trie
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manu07-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Manu07-design/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
