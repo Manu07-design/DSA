@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Manu07-design/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Manu07-design/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Manu07-design/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Manu07-design/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Manu07-design/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Manu07-design/DSA/tree/master/0131-palindrome-partitioning) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manu07-design/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Manu07-design/DSA/tree/master/0155-min-stack) |
 ## Trie
