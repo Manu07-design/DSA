@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Manu07-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Manu07-design/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manu07-design/DSA/tree/master/0268-missing-number) |
+| [0739-daily-temperatures](https://github.com/Manu07-design/DSA/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manu07-design/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Manu07-design/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Manu07-design/DSA/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Manu07-design/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Manu07-design/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
