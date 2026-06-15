@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manu07-design/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Manu07-design/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Manu07-design/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Manu07-design/DSA/tree/master/0031-next-permutation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manu07-design/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Manu07-design/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manu07-design/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manu07-design/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Manu07-design/DSA/tree/master/0031-next-permutation) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manu07-design/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Manu07-design/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manu07-design/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Manu07-design/DSA/tree/master/0134-gas-station) |
