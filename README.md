@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Manu07-design/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Manu07-design/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Manu07-design/DSA/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Manu07-design/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manu07-design/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Manu07-design/DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Manu07-design/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Manu07-design/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Manu07-design/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Manu07-design/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manu07-design/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Manu07-design/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manu07-design/DSA/tree/master/0088-merge-sorted-array) |
