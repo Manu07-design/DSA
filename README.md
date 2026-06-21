@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manu07-design/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manu07-design/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Manu07-design/DSA/tree/master/0268-missing-number) |
+| [0556-next-greater-element-iii](https://github.com/Manu07-design/DSA/tree/master/0556-next-greater-element-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Manu07-design/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Manu07-design/DSA/tree/master/0290-word-pattern) |
+| [0556-next-greater-element-iii](https://github.com/Manu07-design/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Manu07-design/DSA/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manu07-design/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Manu07-design/DSA/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/Manu07-design/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Manu07-design/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Manu07-design/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
