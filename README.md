@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Manu07-design/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Manu07-design/DSA/tree/master/0290-word-pattern) |
+| [0443-string-compression](https://github.com/Manu07-design/DSA/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Manu07-design/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Manu07-design/DSA/tree/master/0567-permutation-in-string) |
 ## Array
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manu07-design/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Manu07-design/DSA/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Manu07-design/DSA/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Manu07-design/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Manu07-design/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Manu07-design/DSA/tree/master/0876-middle-of-the-linked-list) |
