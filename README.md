@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Manu07-design/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Manu07-design/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Manu07-design/DSA/tree/master/0290-word-pattern) |
+| [0402-remove-k-digits](https://github.com/Manu07-design/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Manu07-design/DSA/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Manu07-design/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Manu07-design/DSA/tree/master/0567-permutation-in-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manu07-design/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manu07-design/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Manu07-design/DSA/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Manu07-design/DSA/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Manu07-design/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manu07-design/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Manu07-design/DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Manu07-design/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Manu07-design/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Manu07-design/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Manu07-design/DSA/tree/master/0739-daily-temperatures) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manu07-design/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Manu07-design/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Manu07-design/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manu07-design/DSA/tree/master/0739-daily-temperatures) |
 ## Simulation
