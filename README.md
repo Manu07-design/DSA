@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Manu07-design/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Manu07-design/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Manu07-design/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manu07-design/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manu07-design/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Manu07-design/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Manu07-design/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manu07-design/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
